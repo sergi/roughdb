@@ -1,0 +1,24 @@
+{
+  "name": "roughdb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "leveldown": "^5.1.1",
+    "levelup": "^4.1.0"
+  },
+  "devDependencies": {
+    "supertest": "^4.0.2",
+    "tape": "^4.11.0",
+    "tap-spec": "^5.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
